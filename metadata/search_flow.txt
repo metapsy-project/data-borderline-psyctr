@@ -1,0 +1,30 @@
+
+
+{
+    "database.hits": 11345,
+    "database.hits.duplicates.removed": 5477,
+    "records.screened": 5477,
+    "full.text.assessed.for.eligibility": 212,
+    "full.text.excluded.reasons":
+    {
+        "BPD not primary diagnosis": 36,
+ 	"Study outcomes": 21,
+	"Follow-up study": 12,
+        "Study Design": 18,
+	"No data available": 11,
+	"Protocol or trial registration": 12,
+        "Secondary analysis": 9,
+        "Setting": 6,
+	"Duplicate": 8,
+        "Language": 1,
+	"No psychotherapy/add-on intervention": 17,
+        "Comparator": 1,
+        "Adolescents": 5,
+        "Low methodological quality": 2,
+	"Study arms classified within a similar node": 8,
+        "No BPD-focused intervention": 2
+    },
+    "Studies included in total": 43, 
+    "Studies included in BPD severity analysis": 37, 
+     "Studies included in suicidal behaviour analysis": 29
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Kim Setkowski",
+        "orcid": ""
+    },
+    {
+        "name": "Christina Palantza",
+        "orcid": "0000-0003-2224-5343"
+    },
+    {
+        "name": "Wouter van Ballegooijen",
+        "orcid": "0000-0002-9189-6695"
+    },
+     {
+        "name": "Renske Gilissen",
+	 "orcid": ""
+    },
+    {
+        "name": "Matthijs Oud",
+        "orcid": "0000-0001-8194-3614"
+    },
+    
+    {
+     "name": "Ioana Cristea",
+        "orcid": "0000-0002-9854-7076"
+    },
+    
+    {
+     "name": "Hisashi Noma",
+        "orcid": "0000-0002-2520-9949"
+    },
+    {
+     "name": "Toshi Furukawa",
+        "orcid": "0000-0003-2159-3776"
+    },
+  
+   {
+     "name": "Arnoud Arntz",
+        "orcid": "0000-0002-7992-2272"
+    },
+ {
+     "name": "Anton van Balkom",
+        "orcid": "0000-0001-9171-0208"
+    },
+
+    {
+        "name": "Pim Cuijpers",
+        "orcid": "0000-0001-5497-2743"
+    }
+    
+]
