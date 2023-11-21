@@ -1,28 +1,30 @@
 {
-    "database.hits": 11345,
-    "database.hits.duplicates.removed": 5477,
-    "records.screened": 5477,
-    "full.text.assessed.for.eligibility": 212,
+    "database.hits": 11827,
+    "database.hits.duplicates.removed": 5867,
+    "records.screened": 5867,
+    "full.text.assessed.for.eligibility": 228,
     "full.text.excluded.reasons":
     {
         "BPD not primary diagnosis": 36,
  	"Study outcomes": 21,
 	"Follow-up study": 12,
-        "Study Design": 18,
+        "Study Design": 19,
 	"No data available": 11,
 	"Protocol or trial registration": 12,
-        "Secondary analysis": 9,
+        "Secondary analysis": 17,
         "Setting": 6,
-	"Duplicate": 8,
+	"Duplicate": 10,
         "Language": 1,
 	"No psychotherapy/add-on intervention": 17,
         "Comparator": 1,
-        "Adolescents": 5,
+        "Adolescents": 8,
         "Low methodological quality": 2,
-	"Study arms classified within a similar node": 8,
-        "No BPD-focused intervention": 2
+	"Study arms classified within a similar node": 9,
+        "No BPD-focused intervention": 2, 
+	"Psychotherapy vs Psychotherapy": 10
     },
-    "Studies included in total": 43, 
-    "Studies included in BPD severity analysis": 37, 
-     "Studies included in suicidal behaviour analysis": 29
+    "Studies included in total": 34, 
+    "Studies included in BPD severity analysis": 28, 
+     "Studies included in suicidal behaviour analysis": 23
 }
+
