@@ -1,5 +1,6 @@
 ## **The `data-borderline-psyctr` dataset** 📊 
 
+[![DOI](https://zenodo.org/badge/610232417.svg)](https://zenodo.org/doi/10.5281/zenodo.10185551)
 
 The `data-borderline-psyctr` dataset is a meta-analytic research domain [MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) which is part of the  [Metapsy project](https://www.metapsy.org/). The dataset contains study information and effect size data of randomized trials on psychotherapy interventions for borderline personality disorder (BPD). The date of the last search update is provided [here](https://github.com/metapsy-project/data-borderline-psyctr/blob/main/metadata/last_search.txt). More details about this database can be accessed in the published [network meta-analysis](https://www.cambridge.org/core/journals/psychological-medicine/article/which-psychotherapy-is-most-effective-and-acceptable-in-the-treatment-of-adults-with-a-subclinical-borderline-personality-disorder-a-systematic-review-and-network-metaanalysis/70298984575E733A7FDF82E9BCD6A4F2).
 
